@@ -17,3 +17,6 @@
 
 [Текст ссылки](https://htmlacademy.ru)
 ![Альт-текст](https://github.com/AKhabarov/Otus-HomeWork/blob/main/WhatsApp%20Image%202022-12-04%20at%2017.08.26.jpeg)
+
+Это обычный текст, а 
+> Цитируем вот так, и сразу видно, что это цитата
