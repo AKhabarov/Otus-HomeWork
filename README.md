@@ -16,4 +16,4 @@
 
 
 [Текст ссылки](https://htmlacademy.ru)
-![Альт-текст](ссылка на картинку)
+![Альт-текст](https://github.com/AKhabarov/Otus-HomeWork/blob/main/WhatsApp%20Image%202022-12-04%20at%2017.08.26.jpeg)
