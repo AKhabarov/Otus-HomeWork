@@ -34,7 +34,15 @@
   
 * завершить первую транзакцию - commit;
 
-![image](https://user-images.githubusercontent.com/40095258/230729495-14c5b79e-f4d6-4750-8a57-b16105609fc2.png)
+![image](https://user-images.githubusercontent.com/40095258/230729565-e6b8b702-815e-4b95-951a-9cafe8bf89b0.png)
+
+* сделать select * from persons во второй сессии
+
+![image](https://user-images.githubusercontent.com/40095258/230729641-1dc29ac0-fe44-4fe3-b068-31a95dcb6d2d.png)
+
+* видите ли вы новую запись и если да то почему?
+ * видим, потому что теперь транзакция завершилась и грязного чтения уже нет
+
 
 
 
