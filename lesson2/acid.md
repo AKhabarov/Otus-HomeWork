@@ -43,7 +43,10 @@
 * видите ли вы новую запись и если да то почему?
   * видим, потому что теперь транзакция завершилась и грязного чтения уже нет.
 
+* начать новые но уже repeatable read транзации
 
+![image](https://user-images.githubusercontent.com/40095258/230729942-79b512b4-67d6-41b2-9f25-f0e4438729da.png)
+![image](https://user-images.githubusercontent.com/40095258/230729961-e68c5179-d3d1-410a-a054-70ef7ef2bcbc.png)
 
 
 
