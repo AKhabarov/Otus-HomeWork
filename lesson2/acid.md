@@ -30,7 +30,14 @@
 ![image](https://user-images.githubusercontent.com/40095258/230729333-91f1f03d-2263-439b-bfc7-c64760a7ded5.png)
 
 * видите ли вы новую запись и если да то почему?
-  * Не видим, потому что в read commited нет граязного чтения
+  * Не видим, потому что в read commited нет грязного чтения, а транзакция первой сессии не завершена.
+  
+* завершить первую транзакцию - commit;
+
+![image](https://user-images.githubusercontent.com/40095258/230729495-14c5b79e-f4d6-4750-8a57-b16105609fc2.png)
+
+
+
 
 
 
