@@ -21,5 +21,16 @@
 ![image](https://user-images.githubusercontent.com/40095258/230729212-de3c67da-d8f5-44c4-8b3b-afa72082dd4c.png)
 ![image](https://user-images.githubusercontent.com/40095258/230729223-d3a3d0ee-70a2-4e03-b9a8-be2becd4a783.png)
 
+* в первой сессии добавить новую запись:
+
+![image](https://user-images.githubusercontent.com/40095258/230729274-4cc466c0-7f3e-4cf1-807f-931f43b6b9c9.png)
+
+* сделать select * from persons во второй сессии:
+
+![image](https://user-images.githubusercontent.com/40095258/230729333-91f1f03d-2263-439b-bfc7-c64760a7ded5.png)
+
+* видите ли вы новую запись и если да то почему?
+Не видим, потому что в read commited нет граязного чтения
+
 
 
