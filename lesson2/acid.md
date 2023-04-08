@@ -16,4 +16,10 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/230729077-e77fc655-8439-4749-9abd-7e5da4c447a1.png)
 
+* начать новую транзакцию в обоих сессиях с дефолтным (не меняя) уровнем изоляции:
+
+![image](https://user-images.githubusercontent.com/40095258/230729212-de3c67da-d8f5-44c4-8b3b-afa72082dd4c.png)
+![image](https://user-images.githubusercontent.com/40095258/230729223-d3a3d0ee-70a2-4e03-b9a8-be2becd4a783.png)
+
+
 
