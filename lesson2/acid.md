@@ -11,3 +11,7 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/230728966-7ab38724-8fb7-473b-933e-69379820564a.png)
 
+* посмотреть текущий уровень изоляции:
+![image](https://user-images.githubusercontent.com/40095258/230729077-e77fc655-8439-4749-9abd-7e5da4c447a1.png)
+
+
