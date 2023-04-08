@@ -4,6 +4,7 @@
 ![image](https://user-images.githubusercontent.com/40095258/230610252-b7615df1-530b-47f2-b949-eacc001f69e2.png)
 * выключить auto commit:
 
+![image](https://user-images.githubusercontent.com/40095258/230729007-2930d1f0-ad81-4e91-8b11-dee9f9f89fbf.png)
 ![image](https://user-images.githubusercontent.com/40095258/230728343-bb100937-e745-497c-b640-2e0d0d6dca9b.png)
 
 * сделать в первой сессии новую таблицу и наполнить ее данными:
