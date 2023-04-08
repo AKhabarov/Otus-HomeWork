@@ -48,7 +48,15 @@
 ![image](https://user-images.githubusercontent.com/40095258/230729942-79b512b4-67d6-41b2-9f25-f0e4438729da.png)
 ![image](https://user-images.githubusercontent.com/40095258/230729961-e68c5179-d3d1-410a-a054-70ef7ef2bcbc.png)
 
+* в первой сессии добавить новую запись
+![image](https://user-images.githubusercontent.com/40095258/230730052-1ab6a300-c47b-44e2-9f60-825c7e7697d2.png)
 
+* сделать select * from persons во второй сессии
+
+![image](https://user-images.githubusercontent.com/40095258/230730167-d0906edb-3b67-4c26-bdad-90f8153c9e02.png)
+
+* видите ли вы новую запись и если да то почему?
+  * не видим, грязное чтение
 
 
 
