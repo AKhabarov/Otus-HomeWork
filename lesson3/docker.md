@@ -41,3 +41,6 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/231486540-3bf990f6-1fe8-442d-bf64-8b34378bde6e.png)
 
+*конечно данные все остались так как мы в контейнер пробросили внешнюю для него папку кластера pg*
+![image](https://user-images.githubusercontent.com/40095258/231488939-00b64fd8-1fb0-4f7b-a80e-25f36ca9b176.png)
+
