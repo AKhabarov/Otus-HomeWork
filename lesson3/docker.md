@@ -7,4 +7,9 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/231465788-c35c54b7-8acb-45e6-9326-476937a97273.png)
 
+* развернуть контейнер с PostgreSQL 15 смонтировав в него /var/lib/postgresql
+
+![image](https://user-images.githubusercontent.com/40095258/231467001-5d4f617a-e349-4f8c-923e-924f4274a810.png)
+
+
 
