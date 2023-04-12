@@ -11,5 +11,10 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/231467001-5d4f617a-e349-4f8c-923e-924f4274a810.png)
 
+* развернуть контейнер с клиентом postgres
+
+![image](https://user-images.githubusercontent.com/40095258/231467650-f9710e57-ee83-403b-a6f8-0e163fc4c000.png)
+
+
 
 
