@@ -19,7 +19,7 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/231473700-dcd1a470-12b4-43a0-9e46-56be4f12b84b.png)
 
-**понял что создал таблицу testtable не в той базе и создал заново
+*понял что создал таблицу testtable не в той базе и создал заново
 
 ![image](https://user-images.githubusercontent.com/40095258/231474090-9161689e-0660-4414-a6e7-0e1236ec2759.png)
 
