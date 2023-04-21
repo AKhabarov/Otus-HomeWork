@@ -15,4 +15,17 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/233598674-9c08cc72-8c53-4a13-ac38-7777f7404ea4.png)
 
+* создайте новый standard persistent диск GKE через Compute Engine -> Disks в том же регионе и зоне что
+GCE инстанс размером например 10GB
+  * добавьте свеже-созданный диск к виртуальной машине - надо зайти в режим ее редактирования и
+дальше выбрать пункт attach existing disk
+
+![image](https://user-images.githubusercontent.com/40095258/233601321-a4e8a50f-98ea-4f68-b13f-23e0eb3096b8.png)
+
+* проинициализируйте диск согласно инструкции и подмонтировать файловую систему
+
+![image](https://user-images.githubusercontent.com/40095258/233606454-66b9b367-ca78-4d86-802f-6dbd30799ec5.png)
+
+
+
 
