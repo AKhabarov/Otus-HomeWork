@@ -26,6 +26,12 @@ GCE инстанс размером например 10GB
 
 ![image](https://user-images.githubusercontent.com/40095258/233606454-66b9b367-ca78-4d86-802f-6dbd30799ec5.png)
 
+* перезагрузите инстанс и убедитесь, что диск остается примонтированным
+
+![image](https://user-images.githubusercontent.com/40095258/233607567-55279b1f-60ea-49d0-a5f9-5fe6417952a7.png)
+
+
+
 
 
 
