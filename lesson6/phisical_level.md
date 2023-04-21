@@ -65,11 +65,14 @@ GCE инстанс размером например 10GB
  
 # Задание с *
 
-* не удаляя существующий GCE инстанс сделайте новый, поставьте на его
+* не удаляя существующий GCE инстанс сделайте новый, поставьте на него
 PostgreSQL
 ![image](https://user-images.githubusercontent.com/40095258/233618173-c3ad8f68-78da-45d2-9d66-a0df9195a7c9.png)
 ![image](https://user-images.githubusercontent.com/40095258/233619666-c2a9d44f-6137-4204-b411-8d33ab493bfd.png)
 
+* удалите файлы с данными из /var/lib/postgres
+
+![image](https://user-images.githubusercontent.com/40095258/233628128-c67e8f0a-3877-4380-bcfb-507eb3859cd6.png)
 
 
 
