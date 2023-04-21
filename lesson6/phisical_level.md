@@ -30,6 +30,11 @@ GCE инстанс размером например 10GB
 
 ![image](https://user-images.githubusercontent.com/40095258/233607567-55279b1f-60ea-49d0-a5f9-5fe6417952a7.png)
 
+* сделайте пользователя postgres владельцем /mnt/data
+
+![image](https://user-images.githubusercontent.com/40095258/233607988-39ae5e1c-cb13-452e-a707-33a9722e7cd7.png)
+
+
 
 
 
