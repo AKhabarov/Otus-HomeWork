@@ -42,20 +42,20 @@ GCE инстанс размером например 10GB
 
 ![image](https://user-images.githubusercontent.com/40095258/233608982-b4f3affd-d3f4-4a5b-b6c7-11a1c3c0d0b9.png)
 
-*не получилось потому что каталог кластера мы перенесли в /mnt/data
+*не получилось потому что каталог кластера мы перенесли в /mnt/data*
 
 * найти конфигурационный параметр в файлах расположенных в /etc/postgresql/14/main
 который надо поменять и поменяйте его
 
 ![image](https://user-images.githubusercontent.com/40095258/233609984-9cdc9dea-d10d-4606-a09b-519244e984cd.png)
 
-*поменяли параметр data_directory
+*поменяли параметр data_directory*
 
 попытайтесь запустить кластер
 
 ![image](https://user-images.githubusercontent.com/40095258/233611283-eeda9e33-d356-40bd-a602-fcc62addb1a6.png)
 
-*теперь все в порядке
+*теперь все в порядке*
 
 * зайдите через через psql и проверьте содержимое ранее созданной таблицы
 
