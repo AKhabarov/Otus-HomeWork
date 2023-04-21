@@ -1,4 +1,5 @@
 
+# Основное задание 
 * создайте виртуальную машину c Ubuntu 20.04 LTS в GCE типа e2-medium в default VPC в любом регионе и
 зоне, например us-central1-a
   * поставьте на нее PostgreSQL через sudo apt
@@ -62,7 +63,10 @@ GCE инстанс размером например 10GB
 ![image](https://user-images.githubusercontent.com/40095258/233611701-46b727b5-3594-4a0e-86b1-ae0e565aa34c.png)
 
  
+# Задание со *
 
+* не удаляя существующий GCE инстанс сделайте новый, поставьте на его
+PostgreSQL
 
 
 
