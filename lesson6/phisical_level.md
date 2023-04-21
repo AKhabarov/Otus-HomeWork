@@ -63,10 +63,13 @@ GCE инстанс размером например 10GB
 ![image](https://user-images.githubusercontent.com/40095258/233611701-46b727b5-3594-4a0e-86b1-ae0e565aa34c.png)
 
  
-# Задание со *
+# Задание с *
 
 * не удаляя существующий GCE инстанс сделайте новый, поставьте на его
 PostgreSQL
+![image](https://user-images.githubusercontent.com/40095258/233618173-c3ad8f68-78da-45d2-9d66-a0df9195a7c9.png)
+![image](https://user-images.githubusercontent.com/40095258/233619666-c2a9d44f-6137-4204-b411-8d33ab493bfd.png)
+
 
 
 
