@@ -49,8 +49,11 @@ GCE инстанс размером например 10GB
 
 ![image](https://user-images.githubusercontent.com/40095258/233609984-9cdc9dea-d10d-4606-a09b-519244e984cd.png)
 
-* поменяли параметр data_directory
+*поменяли параметр data_directory
 
+попытайтесь запустить кластер
+
+![image](https://user-images.githubusercontent.com/40095258/233611283-eeda9e33-d356-40bd-a602-fcc62addb1a6.png)
 
 
  
