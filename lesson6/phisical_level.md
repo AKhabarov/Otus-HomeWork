@@ -55,6 +55,11 @@ GCE инстанс размером например 10GB
 
 ![image](https://user-images.githubusercontent.com/40095258/233611283-eeda9e33-d356-40bd-a602-fcc62addb1a6.png)
 
+*теперь все в порядке
+
+* зайдите через через psql и проверьте содержимое ранее созданной таблицы
+
+![image](https://user-images.githubusercontent.com/40095258/233611701-46b727b5-3594-4a0e-86b1-ae0e565aa34c.png)
 
  
 
