@@ -11,3 +11,8 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/233596464-6de1c6e8-6020-4079-8f0e-e999061ad919.png)
 
+* остановите postgres например через sudo -u postgres pg_ctlcluster 14 main stop
+
+![image](https://user-images.githubusercontent.com/40095258/233598674-9c08cc72-8c53-4a13-ac38-7777f7404ea4.png)
+
+
