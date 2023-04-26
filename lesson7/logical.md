@@ -65,4 +65,16 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/234689274-f63ea443-1312-4313-850a-7acb9ebf2ea1.png)
 
+### 26 зайдите под пользователем testread в базу данных testdb
+### 27 сделайте select * from testnm.t1;
+
+![image](https://user-images.githubusercontent.com/40095258/234690072-9f1e04b5-21c2-47f4-a8bf-9175f2ed7248.png)
+
+* 28 получилось?
+* 29 есть идеи почему? если нет - смотрите шпаргалку
+* потому что у таблицы t1 владелец postgres
+
+![image](https://user-images.githubusercontent.com/40095258/234692848-af69ee74-a5e2-4792-b02f-7a3ccd1cb5cd.png)
+
+* 30 как сделать так чтобы такое больше не повторялось? если нет идей - смотрите шпаргалку
 
