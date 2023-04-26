@@ -59,3 +59,10 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/234688215-d5f6c807-d16a-4768-8637-ba44de023198.png)
 
+### 23 удалите таблицу t1
+### 24 создайте ее заново но уже с явным указанием имени схемы testnm
+### 25 вставьте строку со значением c1=1
+
+![image](https://user-images.githubusercontent.com/40095258/234689274-f63ea443-1312-4313-850a-7acb9ebf2ea1.png)
+
+
