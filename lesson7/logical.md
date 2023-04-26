@@ -100,6 +100,10 @@
 
 ### 38 теперь попробуйте выполнить команду create table t3(c1 integer); insert into t2 values (2);
 
+* все равно права на создание таблиц в public остались, после этого поискал в интернете, оказывается надо еще выполнить команду 
+* REVOKE CREATE ON SCHEMA public FROM PUBLIC; - так как роль PUBLIC неявно наследуется всеми ролями. После этого все получилось:
+
+![image](https://user-images.githubusercontent.com/40095258/234704226-1df524a6-c121-475c-b52a-3eeb6223a548.png)
 
 
 
