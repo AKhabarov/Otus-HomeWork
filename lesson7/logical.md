@@ -55,3 +55,7 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/234687581-9815aeff-568e-471f-a939-937191ca981d.png)
 
+### 22 вернитесь в базу данных testdb под пользователем postgres
+
+![image](https://user-images.githubusercontent.com/40095258/234688215-d5f6c807-d16a-4768-8637-ba44de023198.png)
+
