@@ -94,9 +94,11 @@
 
 ### 36 есть идеи как убрать эти права?
 
-![image](https://user-images.githubusercontent.com/40095258/234696144-8da418a6-77c1-48c6-b1ba-9c4bfdc4ab03.png)
+![image](https://user-images.githubusercontent.com/40095258/234697895-53a14113-c62b-481a-9695-0510cf0bfe6e.png)
 
 * первой командой убрали все права у пользователя, второй командой добавили на чтение
+
+### 38 теперь попробуйте выполнить команду create table t3(c1 integer); insert into t2 values (2);
 
 
 
