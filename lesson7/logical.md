@@ -51,4 +51,7 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/234687016-85d1358e-6ac8-4247-9945-ff73f5f24a1a.png)
 
+* так получилось потому что таблица t1 создалась в схеме public, а права мы дали на схему testnm
+
+![image](https://user-images.githubusercontent.com/40095258/234687581-9815aeff-568e-471f-a939-937191ca981d.png)
 
