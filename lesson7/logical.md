@@ -78,3 +78,11 @@
 
 * 30 как сделать так чтобы такое больше не повторялось? если нет идей - смотрите шпаргалку
 
+![image](https://user-images.githubusercontent.com/40095258/234693834-a038d68e-1574-4f27-820f-be2550f6982f.png)
+
+### 31 сделайте select * from testnm.t1;
+
+![image](https://user-images.githubusercontent.com/40095258/234694022-3a3bd894-a3a9-4f8b-9aa2-b70c8c4142f8.png)
+
+
+
