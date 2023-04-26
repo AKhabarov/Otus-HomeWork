@@ -14,4 +14,8 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/234670134-ea1aa9ce-0302-4fe8-930a-406a96c26881.png)
 
+### 6 создайте новую таблицу t1 с одной колонкой c1 типа integer
+### 7 вставьте строку со значением c1=1
+
+![image](https://user-images.githubusercontent.com/40095258/234670899-505df793-9f51-4291-ac30-f434aba38359.png)
 
