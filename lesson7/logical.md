@@ -43,4 +43,12 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/234682254-0d65c465-f8ca-40b3-a76f-726b719420a1.png)
 
+### 14 зайдите под пользователем testread в базу данных testdb
+
+![image](https://user-images.githubusercontent.com/40095258/234686799-11b61496-ccad-4366-95bf-0a189a7e5599.png)
+
+### 15 сделайте select * from t1;
+
+![image](https://user-images.githubusercontent.com/40095258/234687016-85d1358e-6ac8-4247-9945-ff73f5f24a1a.png)
+
 
