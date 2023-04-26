@@ -84,5 +84,20 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/234694022-3a3bd894-a3a9-4f8b-9aa2-b70c8c4142f8.png)
 
+### 34 теперь попробуйте выполнить команду create table t2(c1 integer); insert into t2 values (2);
+
+![image](https://user-images.githubusercontent.com/40095258/234694544-4fba38ed-a671-454f-9764-c6f06782db33.png)
+
+### 35 а как так? нам же никто прав на создание таблиц и insert в них под ролью readonly?
+
+* потому что мы создали таблицу в схеме public, а на эту схему права по умолчанию есть у всех ролей.
+
+### 36 есть идеи как убрать эти права?
+
+![image](https://user-images.githubusercontent.com/40095258/234696144-8da418a6-77c1-48c6-b1ba-9c4bfdc4ab03.png)
+
+* первой командой убрали все права у пользователя, второй командой добавили на чтение
+
+
 
 
