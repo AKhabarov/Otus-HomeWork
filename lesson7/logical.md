@@ -37,4 +37,10 @@
 
 ### 12 создайте пользователя testread с паролем test123
 
+![image](https://user-images.githubusercontent.com/40095258/234680132-f9ca833f-3cf1-4665-81dc-7c34513079dc.png)
+
+### 13 дайте роль readonly пользователю testread
+
+![image](https://user-images.githubusercontent.com/40095258/234682254-0d65c465-f8ca-40b3-a76f-726b719420a1.png)
+
 
