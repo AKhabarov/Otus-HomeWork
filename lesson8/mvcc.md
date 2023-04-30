@@ -44,3 +44,20 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/235349190-cb3afd56-0cbf-4581-ae1f-803d0f132dfa.png)
 
+* Посмотреть количество мертвых строчек в таблице и когда последний раз приходил автовакуум
+
+![image](https://user-images.githubusercontent.com/40095258/235349383-443ddb70-984b-4a61-8008-2f161f781ca5.png)
+
+*автовакуум успел выполниться*
+*сделал еще один апдейт всех строк и вывел опять мертвые строки:*
+
+![image](https://user-images.githubusercontent.com/40095258/235349494-7dacce1e-cada-4334-89bd-a564f9bc155d.png)
+
+* Подождать некоторое время, проверяя, пришел ли автовакуум
+
+![image](https://user-images.githubusercontent.com/40095258/235349585-24cfda76-17d9-406a-9589-a505fe998b1d.png)
+
+* 5 раз обновить все строчки и добавить к каждой строчке любой символ
+* Посмотреть размер файла с таблицей
+
+![image](https://user-images.githubusercontent.com/40095258/235349711-48edd906-de1e-4db0-b6a2-b396e97a2251.png)
