@@ -40,4 +40,7 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/235348811-a233467c-58bd-4c7b-8a54-790632151981.png)
 
+* 5 раз обновить все строчки и добавить к каждой строчке любой символ
+
+![image](https://user-images.githubusercontent.com/40095258/235349190-cb3afd56-0cbf-4581-ae1f-803d0f132dfa.png)
 
