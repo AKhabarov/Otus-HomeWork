@@ -36,4 +36,8 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/235348442-1993d282-243c-4c2a-9ca9-be0a40c8ba3c.png)
 
+* Посмотреть размер файла с таблицей
+
+![image](https://user-images.githubusercontent.com/40095258/235348811-a233467c-58bd-4c7b-8a54-790632151981.png)
+
 
