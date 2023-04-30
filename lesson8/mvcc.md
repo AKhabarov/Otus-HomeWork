@@ -16,3 +16,8 @@
 
 ![image](https://user-images.githubusercontent.com/40095258/235344276-079be3b0-3cd0-4599-b812-5686bebc67b6.png)
 
+* Применить параметры настройки PostgreSQL из прикрепленного к материалам занятия файла
+
+![image](https://user-images.githubusercontent.com/40095258/235344515-2a0a7804-785d-430f-b392-5a063d12179b.png)
+
+![image](https://user-images.githubusercontent.com/40095258/235345471-9d0556d8-3bdd-4306-9d3d-e0037bca5046.png)
