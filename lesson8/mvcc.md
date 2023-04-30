@@ -86,12 +86,13 @@
 
 * Написать анонимную процедуру, в которой в цикле 10 раз обновятся все строчки в искомой таблице. Не забыть вывести номер шага цикла.
 
-*do $$
-begin
-for i IN 1..10 LOOP
-update randomstr set rs = substring(rs from 1 for 31)||'г';
-END LOOP;
-end; $$;*
+*do $$\
+begin\
+for i IN 1..10 LOOP\
+RAISE NOTICE 'Шаг цикла = %', i;\
+update randomstr set rs = substring(rs from 1 for 31)||'г';\
+END LOOP;\
+end; $$;*\
 
 *оказывается пока делал основное задание уже решил задание со **
 
