@@ -14,4 +14,21 @@
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/2233d741-a055-4c50-9008-9b383aac0a80)
 
+## 2. Смоделируйте ситуацию обновления одной и той же строки тремя командами UPDATE в разных сеансах. Изучите возникшие блокировки в представлении pg_locks и убедитесь, что все они понятны. Пришлите список блокировок и объясните, что значит каждая.
+
+* 1 сессия
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/42c43948-933d-45af-beea-23c739ea70a1)
+
+* 2 сессия
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/55264206-fc26-4ece-8842-8aebd531c1ae)
+
+* 3 сессия
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/aee34353-7209-4d1a-a7d0-1d414b9dcd8a)
+
+* блокировки:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/3b7468b5-2a7d-428c-8f0b-e3d583faf335)
 
