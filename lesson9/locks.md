@@ -41,3 +41,31 @@
 В третьей сессии 5546 две успешно установленные аналогично первой и одна ожидает установки типа tuple.
 В очереди видно что 5722 ждет освобождения строки от первой транзакции, а 5546 ждет освобождения tuple*
 
+
+## 3. Воспроизведите взаимоблокировку трех транзакций. Можно ли разобраться в ситуации постфактум, изучая журнал сообщений?
+
+* Вначале каждая сессия блокирует отдельную строку:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/3fb4c27f-e930-4660-ab1a-c38321e8d8b5)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/995fa3aa-541c-4440-91e8-15268398d71d)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/9bb5b763-0417-4d39-9f09-4dd8b961fdc1)
+
+* затем в первой сессии пытаемся сделать апдейт второй строки, во второй - апдейт третьей строки, в третьей сессии - апдейт первой строки:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/71c946c0-5c32-4ccf-bf09-f110461bf14b)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/7b9bc33c-3d55-4be1-ade8-9d0784f3d409)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/9ee5c437-3183-4a14-8030-4a55f72dff93)
+
+* Через секунду в третьей сессии получаем deadlock:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/7483548f-7ad5-456d-abc1-98fe7c397b7c)
+
+* разобраться по журналу можно, там подробно расписано кто кого блокировал, из-за чего образовался дедлок:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/9cd3b6ce-8de4-4df3-92df-da13e00d81d1)
+
+
