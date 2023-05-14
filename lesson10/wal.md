@@ -50,3 +50,12 @@
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/55911df9-bef9-4137-b7db-9aeaabccfcf8)
 
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/e6225080-b0be-48d2-9b47-87017061e2e2)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/7b1117fa-3bfb-44d4-b2b7-1f535bf6ae71)
+
+*выдает 0 строк вместо трех*
+
+*установил ignore_checksum_failure в on, но это не помогло*
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/7e8beb80-f3fa-499f-8ef4-b662edca3cb2)
