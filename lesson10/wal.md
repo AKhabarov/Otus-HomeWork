@@ -11,3 +11,6 @@
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/766431cb-0adf-4223-9123-2c4ee56c25c3)
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/a979890a-b4fd-4ff0-b256-141b649ea211)
+
+### 3. Измерьте, какой объем журнальных файлов был сгенерирован за это время. Оцените, какой объем приходится в среднем на одну контрольную точку.
+
