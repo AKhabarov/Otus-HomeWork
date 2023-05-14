@@ -25,3 +25,10 @@
 sudo /usr/lib/postgresql/14/bin/pg_waldump -p /var/lib/postgresql/14/main/pg_wal -s 0/581F0DD0 -e 0/5872ADB8 000000010000000000000058
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/628be247-bf47-4a60-ac24-3c55fd6a42c0)
+
+### 5. Сравните tps в синхронном/асинхронном режиме утилитой pgbench. Объясните полученный результат.
+
+* Синхронный:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/c35e218b-b876-4352-9515-99a903b56189)
+
