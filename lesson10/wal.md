@@ -39,3 +39,14 @@
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/684c3647-7e53-4055-a506-44699e03e404)
 
 Как и следовало ожидать асинхронный режим производительней более чем в 9 раз. Это объясняется тем, что транзакции считаются завершенными еще до их записи в журнал wal на диск.
+
+### 6. Создайте новый кластер с включенной контрольной суммой страниц. Создайте таблицу. Вставьте несколько значений. Выключите кластер. Измените пару байт в таблице. Включите кластер и сделайте выборку из таблицы. Что и почему произошло? как проигнорировать ошибку и продолжить работу?
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/70003de6-2814-4f13-ac83-be90e0133e46)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/dcb4659d-8059-418e-b9a6-0187b5a57113)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/f1c865a5-e74f-4628-909b-5bf5bff369c4)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/55911df9-bef9-4137-b7db-9aeaabccfcf8)
+
