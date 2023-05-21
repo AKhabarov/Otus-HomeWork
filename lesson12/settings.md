@@ -70,7 +70,7 @@ wal_recycle = on
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/9648fe5b-bb56-4ca4-84ea-fac91eb701cb)
 
-* тест с теми же настройками, synchronous_commit = on, tps = 562:
+* тест с теми же настройками, но synchronous_commit = on, tps = 562:
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/e86289c1-8959-4865-a5ab-20c607e8472f)
 
