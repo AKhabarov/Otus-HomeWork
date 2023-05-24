@@ -28,15 +28,13 @@
 
 ## 7. Используя утилиту pg_dump создадим бэкап с оглавлением в кастомном сжатом формате 2 таблиц
 
-![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/80a96a7e-e85d-4af3-bf6c-544c5a57e3b1)
-
-![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/6c3a942c-369f-4019-9606-2c0e96896f0b)
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/7b5f6e91-ad9e-4c74-a14c-63e3bb464b28)
 
 ## 8. Используя утилиту pg_restore восстановим в новую БД только вторую таблицу!
 
-![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/58df39c2-5fce-47c3-9cab-3e050228b67d)
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/f2d4f407-f5e5-4208-84a6-6aca512391f5)
 
-![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/0b1f12ab-48da-4b9d-80a4-5f59373323f6)
+
 
 
 
