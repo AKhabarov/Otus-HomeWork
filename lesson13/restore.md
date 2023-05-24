@@ -20,3 +20,8 @@
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/31661505-7c23-4b5d-a332-55be64f3e99f)
 
+## 6. Восстановим в 2 таблицу данные из бэкапа. 
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/68bcb629-f233-4a5b-b851-33aa88334312)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/dd7f23c6-f701-4d07-b41d-35c0639ba9a1)
