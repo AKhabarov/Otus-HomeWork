@@ -28,4 +28,6 @@
 
 ## 7. Используя утилиту pg_dump создадим бэкап с оглавлением в кастомном сжатом формате 2 таблиц
 
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/80a96a7e-e85d-4af3-bf6c-544c5a57e3b1)
+
 
