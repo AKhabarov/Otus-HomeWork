@@ -30,4 +30,12 @@
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/80a96a7e-e85d-4af3-bf6c-544c5a57e3b1)
 
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/6c3a942c-369f-4019-9606-2c0e96896f0b)
+
+## 8. Используя утилиту pg_restore восстановим в новую БД только вторую таблицу!
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/63cc7067-4d5b-4333-9d2e-7acb74d16c03)
+
+
+
 
