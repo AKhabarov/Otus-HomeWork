@@ -9,3 +9,14 @@
 ## 3. Заполним таблицы автосгенерированными 100 записями.
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/5f850896-6199-4980-88f4-b53186f497ef)
+
+## 4. Под линукс пользователем Postgres создадим каталог для бэкапов
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/7d53a19d-b0ee-4583-9ce0-799de8242b14)
+
+## 5. Сделаем логический бэкап используя утилиту COPY
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/9f8691fe-539a-463e-9404-21c90e5d8614)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/31661505-7c23-4b5d-a332-55be64f3e99f)
+
