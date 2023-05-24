@@ -34,8 +34,9 @@
 
 ## 8. Используя утилиту pg_restore восстановим в новую БД только вторую таблицу!
 
-![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/63cc7067-4d5b-4333-9d2e-7acb74d16c03)
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/58df39c2-5fce-47c3-9cab-3e050228b67d)
 
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/0b1f12ab-48da-4b9d-80a4-5f59373323f6)
 
 
 
