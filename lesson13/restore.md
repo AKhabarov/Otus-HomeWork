@@ -28,13 +28,16 @@
 
 ## 7. Используя утилиту pg_dump создадим бэкап с оглавлением в кастомном сжатом формате 2 таблиц
 
-![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/7b5f6e91-ad9e-4c74-a14c-63e3bb464b28)
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/baf95406-4b9c-4b7d-a90c-2630e4b07b47)
 
 ## 8. Используя утилиту pg_restore восстановим в новую БД только вторую таблицу!
 
-![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/f2d4f407-f5e5-4208-84a6-6aca512391f5)
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/2c67251f-d682-4c24-8332-b36b2d5824cc)
 
-*перед восстановлением создал новую бд test_restore, добавил в нее схему myschema но почему то не хочет загружаться вторая таблица. Не понимаю что не так, попробовал сотню разных варинатов и отдельно схему выгружал ( -n) и отдельно загружал схему и таблицу, не помогает*
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/20d85f58-f47d-403a-8cab-4a6c946265d1)
 
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/558f04e7-d9fd-47ae-9ee9-77a9fe8ab0f7)
+
+*в новую базу test_restore загрузилась только вторая таблица*
 
 
