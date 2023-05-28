@@ -47,3 +47,5 @@
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/1f549b5c-0c91-4201-a676-bf7f6dec632f)
 
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/82d3cb3e-190c-4876-ba7b-a12b042fbc35)
+
