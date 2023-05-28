@@ -52,3 +52,19 @@
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/82d3cb3e-190c-4876-ba7b-a12b042fbc35)
 
+
+### 3 ВМ использовать как реплику для чтения и бэкапов (подписаться на таблицы из ВМ №1 и №2 )
+
+3 ВМ:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/8ded2602-51df-4a21-9341-1d7ee3d58815)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/5bfb7e92-02aa-465b-92cf-e20eae51be82)
+
+делаем подписку на таблицу test на ВМ1:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/eb788ecd-4c8d-4e89-935e-35b68740057b)
+
+а теперь на таблицу test2 на ВМ2:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/be2a5e68-12f2-4230-bb1c-d1bb5995d8e7)
