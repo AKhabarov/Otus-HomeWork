@@ -14,6 +14,16 @@
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/8a7656c1-fd3a-49d1-bafb-3cd793a82bb6)
 
 ## 3. Реализовать кросс соединение двух или более таблиц
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/e4b68408-01a4-48ea-bd91-20b363fbe174)
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/cb7b51fd-b83f-4cb6-aa8b-350dab16c79f)
+
 ## 4. Реализовать полное соединение двух или более таблиц
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/1ba06c2d-b3ea-4ed7-ace6-e52168bc79fc)
+
 ## 5. Реализовать запрос, в котором будут использованы разные типы соединений
+
+
 ## 6. Сделать комментарии на каждый запрос
