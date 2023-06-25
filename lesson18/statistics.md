@@ -1,6 +1,6 @@
 # 2 вариант
 
-## Структура таблиц
+## Структура таблиц 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/0dbe4822-3d26-4250-93e6-20f97dbdb565)
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/dd733348-dcf3-4408-bf95-c4cb848dab37)
