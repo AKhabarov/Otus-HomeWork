@@ -11,7 +11,7 @@ psql -f /mnt/demo-medium-20170815.sql -U postgres
 
 ## 2. Секционируем таблицу ticket_flights по хэшу
 
-создаем новую таблицу с аналогичной структурой, с разбиением по колонке flight_id:
+создаем новую таблицу с аналогичной структурой, но с секционированием по хэшу по колонке flight_id:
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/73e70b89-ee9a-44eb-b640-3e06c9c7c897)
 
