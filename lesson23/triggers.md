@@ -5,3 +5,8 @@
 
 ![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/b0e764d1-6eab-4ece-8661-69003cc87266)
 
+### создаем витрину:
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/5731897b-7740-4769-a01d-bf2d1d04363f)
+
+
