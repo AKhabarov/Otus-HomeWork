@@ -69,7 +69,7 @@ AS $$
             END;
         END LOOP insert_update;
 
-        RETURN NULL;```
+        RETURN NULL;
 
     END;
 $$ LANGUAGE plpgsql;
@@ -77,3 +77,19 @@ $$ LANGUAGE plpgsql;
 CREATE TRIGGER t_sales_summary
 AFTER INSERT OR UPDATE OR DELETE ON sales
     FOR EACH ROW EXECUTE FUNCTION sales_summary();
+```
+
+### Проверка работы триггера:
+
+1. insert
+   
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/497f0dd5-6b0c-43f1-9b0a-5ae81581ebb1)
+
+2. delete
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/053b258c-2932-415b-8ae6-0dd317fb71ec)
+
+3. update
+
+![image](https://github.com/AKhabarov/Otus-HomeWork/assets/40095258/d8d3f014-1f8e-4973-b466-d8d5af300f78)
+
