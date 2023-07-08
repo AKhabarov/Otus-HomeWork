@@ -11,6 +11,7 @@
 
 ### Триггерная функция и триггер:
 
+```
 CREATE OR REPLACE FUNCTION sales_summary() RETURNS TRIGGER
 AS $$
     DECLARE
@@ -68,7 +69,7 @@ AS $$
             END;
         END LOOP insert_update;
 
-        RETURN NULL;
+        RETURN NULL;```
 
     END;
 $$ LANGUAGE plpgsql;
